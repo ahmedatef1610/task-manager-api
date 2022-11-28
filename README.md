@@ -1,2 +1,2 @@
 # task-manager-api
-https://ahmed-task-manager-api.herokuapp.com/
+https://ahmed-task-manager-api.up.railway.app/
